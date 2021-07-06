@@ -23,7 +23,7 @@ function setup(){
  runner = createSprite(200,350)
  runner.addAnimation("jacksonrunning",runnerIMG)
  runner.scale = 0.1
-runner.velocityY = -0.08
+
 
 invisibleGround1 = createSprite(40,350,10,400);
   invisibleGround1.visible = false;
