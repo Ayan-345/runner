@@ -6,7 +6,7 @@ var runnerIMG;
 function preload(){
   //pre-load images
 pathIMG = loadImage("path.png");
-runnerIMG = loadAnimation("runner-1.png","runner-1.png","runner-2.png","runner-1.png")
+runnerIMG = loadAnimation("Runner-1.png","Runner-1.png","Runner-2.png","Runner-1.png")
 
 }
 
