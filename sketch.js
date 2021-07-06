@@ -20,7 +20,7 @@ function setup(){
   path.velocityY = 4;
   path.scale = 1.2;
 
- runner = createSprite(200,300)
+ runner = createSprite(200,350)
  runner.addAnimation("jacksonrunning",runnerIMG)
  runner.scale = 0.1
 runner.velocityY = -0.08
