@@ -25,10 +25,10 @@ function setup(){
  runner.scale = 0.1
 runner.velocityY = -0.08
 
-invisibleGround1 = createSprite(50,350,10,400);
+invisibleGround1 = createSprite(40,350,10,400);
   invisibleGround1.visible = false;
 
-  invisibleGround2 = createSprite(350,350,10,400);
+  invisibleGround2 = createSprite(360,350,10,400);
   invisibleGround2.visible = false;
 
 
